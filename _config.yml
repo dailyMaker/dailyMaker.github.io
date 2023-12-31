@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "데일리메이커"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "세상의 모든 '만드는 사람'들을 위한 인터넷 신문"
+  location         : "대한민국"
   email            :
   links:
     - label: "Email"
