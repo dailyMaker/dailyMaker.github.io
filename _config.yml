@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "sunrise" #"default" # "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "데일리메이커|세상의 모든 만드는 사람(Makers)을 위한 신문"
+title                    : "데일리메이커|세상의 모든 만드는 사람들을 위한 신문"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "데일리메이커"
-description              : "세상의 모든 만드는 사람(Makers)을 위한 신문"
+description              : "세상의 모든 만드는 사람들을 위한 신문"
 url                      : "https://dailyMaker.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "데일리메이커"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "세상의 모든 '만드는 사람'들을 위한 인터넷 신문"
+  bio              : "세상의 모든 만드는 사람들을 위한 신문"
   location         : "대한민국"
   email            :
   links:
